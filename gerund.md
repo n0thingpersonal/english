@@ -40,7 +40,7 @@ Gerund is used after words:
 - after
 - without
 - instead of .. (замісь того щоб)
-- in spite of .. (недивлячись на)
+- in spite of .. (недивлячись на) 
 - worth (варто)
 - to prefer
 - to miss
@@ -64,7 +64,7 @@ Gerund is used after words:
 - to accuse of (звинувачувати)
 - to apolilogize for (вибачатись за)
 - to approve of (доводити, підтверджувати)
-- to object to (заперечувати)
+- to object to (заперечувати, заважати)
 - to persist in (упорствувати)
 - to congratulate on
 - to depend on
@@ -86,8 +86,9 @@ Gerund is used after words:
 - to agree with
 - to rely on (покладатись на)
 - to blame for (звинувачувати)
+- to aquse of (серйозне звинувачення)
 - to praise for (хвалити за)
-- to admit (визнати, припускати)
+- to admit (визнати, Еипускати)
 - to consider
 - to justify (оправдувати)
 - to practise
@@ -99,3 +100,4 @@ Gerund is used after words:
 - to tolerate (терпіти, виносити)
 - to canfess (зізнатись, каятись)
 - to appreciate (оцінити)
+- apologize to somebody for something (вибачати когось за щось)
